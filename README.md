@@ -1,5 +1,4 @@
 # Basic-Mini-Map-for-LUAU-for-GT
-As the name suggest this is a unity package for gorilla tag custom maps.
 ## Contents
   - Basic Non-Networked System for the Mini Maps
   - Basic Networked System for the Mini Maps
