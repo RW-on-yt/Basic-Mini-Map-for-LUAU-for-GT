@@ -2,6 +2,7 @@
 ## Contents
   - Basic Non-Networked System for the Mini Maps
   - Basic Networked System for the Mini Maps
+  - yes you can change the map scale and it will still work (in editor or through code)
 
 # How to use
   - Follow the main steps in the GTAG custom map mod.io guide to create your map
